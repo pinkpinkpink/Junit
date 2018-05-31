@@ -28,3 +28,10 @@ junit中的每个函数有且只有一个断言</br>
 mockito</br>
 powermock</br>
 JMock</br>
+
+
+#修改代码的艺术
+感知:解依赖</br>
+分离：解依赖</br>
+伪对象</br>
+仿对象mock object</br>
