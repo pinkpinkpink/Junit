@@ -12,7 +12,19 @@ Singleon</br>
 多态优于条件语句</br>
 生成模拟对象：mock objects和stub</br>
 不要在mocks中写入业务代码</br>
-成功的秘诀在于真诚，如果你装的像，那么你就成功了</br>
 Convention over configuration-maven</br>
 HtmlUnit处理JavaScript</br>
 单元测试必须执行隔离代码，但是持久层需要和外部实体数据库交互。</br>
+一个测试应该遵循三段论: 初始化场景，执行被测试方法，验证执行结果，所以一个理想的测试方法应该只有三行</br>
+别重复自己</br>
+junit中的每个函数有且只有一个断言</br>
+整洁的测试五个原则：</br>
+快速</br>
+独立</br>
+可重复</br>
+自足验证</br>
+及时</br>
+
+mockito</br>
+powermock</br>
+JMock</br>
